@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Eu sou o Robert Lindomar 👋
 
-<!--
-**robertlindomar/robertlindomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Entusiasta em desenvolvimento backend com foco em **Java / Spring Boot**  
+📚 Atualmente estudando também **Node.js**, **MySQL**, automações com **JavaScript** e integração com APIs  
 
-Here are some ideas to get you started:
+🧠 Tenho forte interesse em arquitetura de software, trabalhando com:
+- Padrões como **camadas (Controller, Service, Repository)**
+- Uso de **DTOs**, **validações**, e **boas práticas de REST**
+- Estruturação de projetos com **arquitetura modular**, inspirada em frameworks como Spring Boot e Angular  
+- Experiência com autenticação via **JWT**, controle de acesso e organização de código limpo e escalável
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e ferramentas
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlindomar&show_icons=true&theme=github_dark)
+
+---
+
+## 📫 Entre em contato
+
+- Email: robertlindomar18@gmail.com
+- WhatsApp: (67) 99891-1380
+- WebSite: https://www.robertlindomar.tech
